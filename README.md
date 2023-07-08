@@ -1,7 +1,8 @@
-![Alt text](https://github.com/balakrishnasajja/balakrishnasajja/blob/main/Github%20banner.png) 
+
+
 <h1 align="center">Hi 👋, I'm Balakrishna S</h1>
 <h3 align="center">An enthusiastic Software developer hailing from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" /> </p>
 
