@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balakrishnasajja&show_icons=true&locale=en" alt="balakrishnasajja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balakrishnasajja&" alt="balakrishnasajja" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/balakrishnasajja/balakrishnasajja/blob/output/github-contribution-grid-snake.svg)
