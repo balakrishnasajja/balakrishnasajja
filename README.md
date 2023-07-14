@@ -1,3 +1,4 @@
+![Alt Text](https://raw.githubusercontent.com/balakrishnasajja/balakrishnasajja/main/Banner.png)
 
 <h1 align="center">Hello, fellow coders 👋, I'm Balakrishna S</h1>
 <div align="center"> <img src="https://github.com/balakrishnasajja/balakrishnasajja/blob/main/Banner.png"> </div>
