@@ -1,8 +1,6 @@
 <h1 align="center">Hello, fellow coders 👋, I'm Balakrishna S</h1>
 
-<div align="center"> <img src="https://github.com/balakrishnasajja/balakrishnasajja/blob/main/Banner.png"> </div>
-
-![bann](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/1f88751f-1ae3-4cc1-9675-f275eb302c3d)
+![gallery](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/91757c03-424b-42c2-83d9-cf8e84fc8058)
 
 <h3 align="center">An enthusiastic Software developer hailing from India.</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
