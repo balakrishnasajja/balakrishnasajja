@@ -47,12 +47,6 @@
 
 
 
-![giphy](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/203b9ac6-9230-4144-85a4-1b20f1e645e5)
-
-
-
-
-
 
 
 
