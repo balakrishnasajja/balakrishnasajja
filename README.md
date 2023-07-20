@@ -3,9 +3,14 @@
 ![gallery](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/91757c03-424b-42c2-83d9-cf8e84fc8058)
 
 <h3 align="center">An enthusiastic Software developer hailing from India.</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" />
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balakrishnasajja" alt="balakrishnasajja" /></a> </p>
 
@@ -38,4 +43,32 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balakrishnasajja&" alt="balakrishnasajja" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/balakrishnasajja/balakrishnasajja/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+![giphy](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/203b9ac6-9230-4144-85a4-1b20f1e645e5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
