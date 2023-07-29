@@ -5,7 +5,6 @@
 <p align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" />
 </div>
