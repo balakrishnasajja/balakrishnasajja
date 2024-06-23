@@ -2,7 +2,7 @@
 
 
 ![gallery](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/91757c03-424b-42c2-83d9-cf8e84fc8058)
-<h3 align="center">An enthusiastic Software developer hailing from India.</h3>
+<h3 align="center">An enthusiastic Software developer</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>
