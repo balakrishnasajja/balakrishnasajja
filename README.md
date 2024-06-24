@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" />
 </div>
 
-SDE-1 at Toolyt | Ex-Intern @EasyEcom | Seeking Full-Time Software Developer Job | PHP,Laraval,Python,Flask,Django,Javascript,PHP | Grad Student at Dayananda Sagar Insitutions - DSATM | 2023 Engineering Graduate
+SDE-1 at Toolyt | Ex Software Developer Intern @EasyEcom | Seeking Full-Time Software Developer Job | PHP,Laraval,Python,Flask,Django,Javascript,PHP | Grad Student at Dayananda Sagar Insitutions - DSATM | 2023 Engineering Graduate
 
 - 🌱 I’m currently learning **Node.js,React.js**
 
