@@ -1,7 +1,5 @@
 <h1 align="center">Hello, fellow coders 👋, I'm Balakrishna S</h1>
 
-
-![gallery](https://github.com/balakrishnasajja/balakrishnasajja/assets/95561879/91757c03-424b-42c2-83d9-cf8e84fc8058)
 <h3 align="center">An enthusiastic Software developer</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
@@ -10,13 +8,27 @@
   <img src="https://komarev.com/ghpvc/?username=balakrishnasajja&label=Profile%20views&color=0e75b6&style=flat" alt="balakrishnasajja" />
 </div>
 
-SDE-1 at Toolyt | Ex Software Developer Intern @EasyEcom | Seeking Full-Time Software Developer Job | PHP,Laraval,Python,Flask,Django,Javascript,PHP | Grad Student at Dayananda Sagar Insitutions - DSATM | 2023 Engineering Graduate
+Software Development Engineer | Backend Engineer | API & System Design Enthusiast
 
-- 🌱 I’m currently learning **Node.js,React.js**
+💼 Software Development Engineer with 2.5+ years of experience building scalable backend systems, REST APIs, workflow automation platforms, and enterprise-grade integrations.
 
-- 💬 Ask me about **Python,Flask,Django,PHP,MYSQL,HTML,CSS,javascript**
+Currently working on secure, high-performance applications using Node.js, Express.js, PHP, Laravel, MySQL, MongoDB, Redis, and Docker.
 
-- 📫 How to reach me **balakrishna1342001@gmail.com**
+## 🚀 About Me
+
+- 💼 Software Development Engineer at Toolyt
+- 🔥 2.5+ years of experience in Backend Development
+- 🏗️ Building scalable APIs and business automation systems
+- 🔐 Experienced in JWT Authentication, RBAC, MFA, Webhooks, and Security
+- 📈 Optimized SQL queries and backend services, improving performance by 30%
+- 🌱 Currently learning:
+  - Node.js Advanced Concepts
+  - React.js
+  - Docker & Kubernetes
+  - Microservices
+  - System Design
+  - AWS Cloud
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HdQNDpZcFI7nzUTx0vk_PQ1OP3dEL09Q/view?usp=drivesdk](https://drive.google.com/file/d/1HdQNDpZcFI7nzUTx0vk_PQ1OP3dEL09Q/view?usp=drivesdk)
 
@@ -41,7 +53,24 @@ SDE-1 at Toolyt | Ex Software Developer Intern @EasyEcom | Seeking Full-Time Sof
 
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 💻 Tech Stack:
+
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 
